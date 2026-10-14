@@ -1,0 +1,28 @@
+#foot {
+    background-color: black;
+    color: white;
+}
+#header {
+    background-color: rgb(226, 148, 51);
+    color: rgb(58, 58, 58);
+}
+body {
+    background-color: beige;
+}
+#exampleInputPassword1 {
+    width: 40%; height: 30px;
+    background-color: rgb(2, 2, 2);
+    color: white;
+}
+#exampleInputEmail1 {
+    width: 40%; height: 30px;
+      background-color: rgb(2, 2, 2);
+    color: white;
+}
+#emailHelp{
+    color: rgb(243, 243, 243);
+}
+
+.card-img-top {
+    border: solid white 5px;
+}
